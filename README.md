@@ -2,7 +2,7 @@
 This is an implementation of the Caesar cipher in Ruby for The Odin Project
 
 #### Parameters
-(string, Number)
+String, Number
 
 #### Returns
 String with each character shifted by the given amount
